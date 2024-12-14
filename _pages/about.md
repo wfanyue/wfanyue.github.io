@@ -30,13 +30,19 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 [ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
 
 # Experiences
-Full-time Researcher, Meituan Inc., Beijing, from Jul 2024-Jan 2025.
-
-Research Intern, Baidu Inc., Beijing, from Jul 2023-Dec 2024.
+<div style="display: flex; align-items: center;">
+  <img src="../images/ali.png" alt="Logo" style="width: 60px; margin-right: 20px;">
+  <span><strong>Full-time Researcher</strong>, Meituan Inc., Beijing | <strong>Duration:</strong> from Jul 2024 - Jan 2025.</span>
+</div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/ali.png" alt="Logo" style="width: 40px; margin-right: 10px;">
-  <span><strong>Research Intern</strong>, Alimama, Beijing | <strong>Duration:</strong> Nov 2020 - Sep 2021</span>
+  <img src="../images/ali.png" alt="Logo" style="width: 60px; margin-right: 20px;">
+  <span><strong>Research Intern</strong>, Baidu Inc., Beijing | <strong>Duration:</strong> Jul 2023 - Dec 2024.</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/ali.png" alt="Logo" style="width: 60px; margin-right: 20px;">
+  <span><strong>Research Intern</strong>, Alibaba Group, Beijing | <strong>Duration:</strong> Nov 2020 - Sep 2021.</span>
 </div>
 
 # Services
