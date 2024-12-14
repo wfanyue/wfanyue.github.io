@@ -15,30 +15,14 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 # Publications
 
-<div class="publication_div">
-  <div>
-    <p><strong>
-      Learning Pixel-Level Distinctions for Video Highlight Detection
-    </strong></p>
-    <p>
-      <strong>Fanyue Wei</strong>, Biao Wang, <a href="http://home.ustc.edu.cn/~getzh/">Tiezheng Ge</a>, <a href="https://yuningjiang.github.io/">Yuning Jiang</a>, <a href="https://wenli-vision.github.io/">Wen Li</a>, <a href="https://scholar.google.com/citations?user=inRIcS0AAAAJ">Lixin Duan</a>
-    </p>
-    <p>
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Learning_Pixel-Level_Distinctions_for_Video_Highlight_Detection_CVPR_2022_paper.pdf">CVPR</a>, 2022.
-    </p>
-  </div>
-  
-  <div>
-    <p><strong>
-      Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning
-    </strong></p>
-    <p>
-      <strong>Fanyue Wei</strong>, Wei Zeng, <a href="https://zhenyangli.github.io/">Zhenyang Li</a>, <a href="https://www.yindawei.com/">Dawei Yin</a>, <a href="https://scholar.google.com/citations?user=inRIcS0AAAAJ">Lixin Duan</a>, <a href="https://wenli-vision.github.io/">Wen Li</a>
-    </p>
-    <p>
-      <a href="https://arxiv.org/abs/2407.06642v2">ECCV</a>, 2024.
-    </p>
-  </div>
-
-  
-</div>
+Learning Pixel-Level Distinctions for Video Highlight Detection  
+**Fanyue Wei**, Biao Wang, [Tiezheng Ge](http://home.ustc.edu.cn/~getzh/), 
+[Yuning Jiang](https://yuningjiang.github.io/), [Wen Li](https://wenli-vision.github.io/), 
+[Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ)  
+[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Learning_Pixel-Level_Distinctions_for_Video_Highlight_Detection_CVPR_2022_paper.pdf)  
+<br>
+Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning  
+**Fanyue Wei**, Wei Zeng, [Zhenyang Li](https://zhenyangli.github.io/), 
+[Dawei Yin](https://www.yindawei.com/), [Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ), 
+[Wen Li](https://wenli-vision.github.io/)  
+[ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
