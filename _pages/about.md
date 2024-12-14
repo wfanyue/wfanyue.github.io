@@ -13,7 +13,9 @@ My research focuses on multimodal learning, including Video Understanding, Text-
 
 If you are interested in my research, feel free to contact me at: wfanyue@gmail.com.
 
-# Publications
+# Selected Publications
+
+**My papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=D3yhzwYAAAAJ) profile.**
 
 Learning Pixel-Level Distinctions for Video Highlight Detection  
 **Fanyue Wei**, Biao Wang, [Tiezheng Ge](http://home.ustc.edu.cn/~getzh/), 
@@ -26,3 +28,8 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 [Dawei Yin](https://www.yindawei.com/), [Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ), 
 [Wen Li](https://wenli-vision.github.io/)  
 [ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
+
+# Experiences
+
+# Services
+
