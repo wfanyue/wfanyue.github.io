@@ -30,14 +30,17 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 [ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
 
 # Experiences
-Full-time Researcher, Meituan Inc., Beijing, from 2024.6-2025.1.
+Full-time Researcher, Meituan Inc., Beijing, from Jul 2024-Jan 2025.
 
-Research Intern, Baidu Inc., Beijing, from 2023.7-2024.11.
+Research Intern, Baidu Inc., Beijing, from Jul 2023-Dec 2024.
 
-Research Intern, Alimama., Beijing, from 2020.12-2021.9.
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/wfanyue/wfanyue.github.io/blob/master/images/ali.png" alt="Logo" style="width: 40px; margin-right: 10px;">
+  <span><strong>Research Intern</strong>, Alimama, Beijing | <strong>Duration:</strong> Nov 2020 - Sep 2021</span>
+</div>
 
 # Services
-**Conference Reviewer:** CVPR, ICLR
+**Conference Reviewer:** CVPR, ICLR.
 
 # Misc.
-I'm an XNFP-t.
+I'm an XNFP-T.
