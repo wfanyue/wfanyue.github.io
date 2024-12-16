@@ -32,12 +32,12 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 # Experiences
 <div style="display: flex; align-items: center;">
   <img src="../images/meituan.png" alt="Logo" style="width: 60px; margin-right: 20px;">
-  <span><strong>Full-time Researcher</strong>, Meituan Inc., Beijing | <strong>Duration:</strong> from Jul 2024 - Jan 2025.</span>
+  <span><strong>Full-time Researcher</strong>, Meituan Inc, Beijing | <strong>Duration:</strong> from Jul 2024 - Jan 2025.</span>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/baidu.png" alt="Logo" style="width: 60px; margin-right: 20px;">
-  <span><strong>Research Intern</strong>, Baidu Inc., Beijing | <strong>Duration:</strong> Jul 2023 - Dec 2024.</span>
+  <span><strong>Research Intern</strong>, Baidu Inc, Beijing | <strong>Duration:</strong> Jul 2023 - Dec 2024.</span>
 </div>
 
 <div style="display: flex; align-items: center;">
