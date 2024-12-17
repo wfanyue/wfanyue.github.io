@@ -41,10 +41,6 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
   <span><strong>Research Intern</strong>, Baidu Inc, Beijing | <strong>Duration:</strong> Jul 2023 - Dec 2024.</span>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <span><strong>Research Intern</strong>, Alibaba Group, Beijing | <strong>Duration:</strong> Nov 2020 - Sep 2021.</span>
-</div>
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/ali.png" alt="HiFiHR Image" width="30%" style="margin-right: 20px;"/>
     <div style="line-height: 1;">
