@@ -42,7 +42,7 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="../images/ali.png" alt="HiFiHR Image" width="30%" style="margin-right: 20px;"/>
+    <img src="../images/ali.png" alt="HiFiHR Image" width="30%" style="margin-right: 10px;"/>
     <div style="line-height: 1;">
         <p><strong>Research Intern</strong>, Baidu Inc, Beijing</p>
         <p><strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
