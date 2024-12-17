@@ -34,24 +34,21 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/meituan.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
     <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Meituan Inc, Beijing</p>
-        <p><strong>Duration:</strong> Jul 2024 - Jan 2025.</p>
+        <p><strong>Research Intern</strong>, Meituan Inc, Beijing || <strong>Duration:</strong> Jul 2024 - Jan 2025.</p> 
     </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/baidu.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
     <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Baidu Inc, Beijing</p>
-        <p><strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
+        <p><strong>Research Intern</strong>, Baidu Inc, Beijing, <strong>Duration:</strong> Jul 2023 - Dec 2024. </p>
     </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/ali.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
     <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Alibaba Group, Beijing</p>
-        <p><strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
+        <p><strong>Research Intern</strong>, Alibaba Group, Beijing, <strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
     </div>
 </div>
 
