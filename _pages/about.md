@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+# Biography
 My name is Fanyue Wei. I am an **incoming** Ph.D. student at the National University of Singapore(NUS), under the supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/), and I am also currently a researcher at Meituan, working with [Dr. Lin Ma](https://forestlinma.com/) on Multimodal Representation Pretraining. Previously, I obtained my M.E degree from the University of Electronic Science and Technology of China, under the supervision of [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ&hl=en).
 
 My research focuses on multimodal learning, including Video Understanding, Text-to-Image Generation, and *etc*.
@@ -46,9 +47,11 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 </div>
 
 # Services
-**Conference Reviewer:** CVPR, ICLR.
+**Conference Reviewer** 
+- CVPR, ICLR.
 
-**Teaching Assitant:** Autumn 2022, Introduction to Artificial Intelligence, UESTC.
+**Teaching Assistant** 
+- Autumn 2022, Introduction to Artificial Intelligence, UESTC.
 
 # Misc
 I'm an XNFP-T.
