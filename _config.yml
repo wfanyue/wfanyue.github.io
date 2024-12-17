@@ -10,7 +10,7 @@
 locale                   : "Meituan, Beijing, China"
 title                    : "Fanyue Wei"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fanyue Wei"
 description              : &description "personal description"
 url                      : https://wfanyue.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
