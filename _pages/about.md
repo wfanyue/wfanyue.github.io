@@ -31,20 +31,26 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 [ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
 
 # Experiences
-<div style="display: flex; align-items: center;">
-  <img src="../images/meituan.png" alt="Logo" style="width: 60px; margin-right: 20px;">
-  <span><strong>Full-time Researcher</strong>, Meituan Inc, Beijing | <strong>Duration:</strong> from Jul 2024 - Jan 2025.</span>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="../images/baidu.png" alt="Logo" style="width: 60px; margin-right: 20px;">
-  <span><strong>Research Intern</strong>, Baidu Inc, Beijing | <strong>Duration:</strong> Jul 2023 - Dec 2024.</span>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="../images/meituan.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
+    <div style="line-height: 1;">
+        <p><strong>Research Intern</strong>, Meituan Inc, Beijing</p>
+        <p><strong>Duration:</strong> Jul 2024 - Jan 2025.</p>
+    </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="../images/ali.png" alt="HiFiHR Image" width="6%" style="margin-right: 10px;"/>
+    <img src="../images/baidu.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
     <div style="line-height: 1;">
         <p><strong>Research Intern</strong>, Baidu Inc, Beijing</p>
+        <p><strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="../images/ali.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
+    <div style="line-height: 1;">
+        <p><strong>Research Intern</strong>, Alibaba Group, Beijing</p>
         <p><strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
     </div>
 </div>
