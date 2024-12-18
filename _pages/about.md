@@ -18,17 +18,17 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 **My papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=D3yhzwYAAAAJ) profile.**
 
-Learning Pixel-Level Distinctions for Video Highlight Detection  
-**Fanyue Wei**, Biao Wang, [Tiezheng Ge](http://home.ustc.edu.cn/~getzh/), 
-[Yuning Jiang](https://yuningjiang.github.io/), [Wen Li](https://wenli-vision.github.io/), 
-[Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ)  
-[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Learning_Pixel-Level_Distinctions_for_Video_Highlight_Detection_CVPR_2022_paper.pdf)  
-<br>
-Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning  
+[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642v2)  
 **Fanyue Wei**, Wei Zeng, [Zhenyang Li](https://zhenyangli.github.io/), 
 [Dawei Yin](https://www.yindawei.com/), [Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ), 
 [Wen Li](https://wenli-vision.github.io/)  
-[ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
+**ECCV 2024**
+
+[Learning Pixel-Level Distinctions for Video Highlight Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Learning_Pixel-Level_Distinctions_for_Video_Highlight_Detection_CVPR_2022_paper.pdf)  
+**Fanyue Wei**, Biao Wang, [Tiezheng Ge](http://home.ustc.edu.cn/~getzh/), 
+[Yuning Jiang](https://yuningjiang.github.io/), [Wen Li](https://wenli-vision.github.io/), 
+[Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ)  
+**CVPR 2022** 
 
 # Experiences
 
