@@ -31,26 +31,12 @@ Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement L
 [ECCV 2024](https://arxiv.org/abs/2407.06642v2)  
 
 # Experiences
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="../images/meituan.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
-    <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Meituan Inc, Beijing || <strong>Duration:</strong> Jul 2024 - Jan 2025.</p> 
-    </div>
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="../images/baidu.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
-    <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Baidu Inc, Beijing, <strong>Duration:</strong> Jul 2023 - Dec 2024. </p>
-    </div>
-</div>
+<strong>Full-time Researcher</strong>, Meituan Inc, Beijing, Jul 2024 - Jan 2025.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="../images/ali.png" alt="HiFiHR Image" width="10%" style="margin-right: 10px;"/>
-    <div style="line-height: 1;">
-        <p><strong>Research Intern</strong>, Alibaba Group, Beijing, <strong>Duration:</strong> Jul 2023 - Dec 2024.</p>
-    </div>
-</div>
+<strong>Research Intern</strong>, Baidu Inc, Beijing, Jul 2023 - Dec 2024.
+
+<strong>Research Intern</strong>, Alimama, Alibaba Group, Beijing, Dec 2020 - Sept 2021.
 
 # Services
 **Conference Reviewer** 
