@@ -20,11 +20,11 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642v2)  
 **Fanyue Wei**, Wei Zeng, Zhenyang Li, Dawei Yin, Lixin Duan, Wen Li   
-ECCV, 2024
+*ECCV*, 2024
 
 [Learning Pixel-Level Distinctions for Video Highlight Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Learning_Pixel-Level_Distinctions_for_Video_Highlight_Detection_CVPR_2022_paper.pdf)  
 **Fanyue Wei**, Biao Wang, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan   
-CVPR, 2022 
+*CVPR*, 2022 
 
 # Experiences
 
