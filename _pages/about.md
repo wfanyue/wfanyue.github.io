@@ -26,19 +26,18 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 **Fanyue Wei**, Biao Wang, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan   
 *CVPR*, 2022 
 
-# Experiences
+# Experiences    
+**Full-time Researcher**, Meituan Inc, Beijing, Jul 2024 - Jan 2025.   
 
-<strong>Full-time Researcher</strong>, Meituan Inc, Beijing, Jul 2024 - Jan 2025.
+**Research Intern**, Baidu Inc, Beijing, Jul 2023 - Dec 2024.   
 
-<strong>Research Intern</strong>, Baidu Inc, Beijing, Jul 2023 - Dec 2024.
-
-<strong>Research Intern</strong>, Alimama, Alibaba Group, Beijing, Dec 2020 - Sept 2021.
+**Research Intern**, Alimama, Alibaba Group, Beijing, Dec 2020 - Sept 2021.  
 
 # Services
-**Conference Reviewer** 
+**Conference Reviewer** <br>
 - CVPR, ICLR.
 
-**Teaching Assistant** 
+**Teaching Assistant** <br>
 - Autumn 2022, Introduction to Artificial Intelligence, UESTC.
 
 # Misc
