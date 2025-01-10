@@ -27,11 +27,11 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 *CVPR*, 2022 
 
 # Experiences    
-**Full-time Researcher**, Meituan Inc, Beijing, Jul 2024 - Jan 2025.   
+**Full-time Researcher**, work with [Dr. Lin Ma](https://forestlinma.com/), Meituan Inc, Beijing, Jul 2024 - Jan 2025.   
 
-**Research Intern**, Baidu Inc, Beijing, Jul 2023 - Dec 2024.   
+**Research Intern**, work with [Dr. Zhenyang Li](https://zhenyangli.github.io/), Baidu Inc, Beijing, Jul 2023 - Dec 2024.   
 
-**Research Intern**, Alimama, Alibaba Group, Beijing, Dec 2020 - Sept 2021.  
+**Research Intern**, work with [Dr. Tiezheng Ge](http://home.ustc.edu.cn/~getzh/), Alimama, Alibaba Group, Beijing, Dec 2020 - Sept 2021.  
 
 # Services
 **Conference Reviewer** <br>
