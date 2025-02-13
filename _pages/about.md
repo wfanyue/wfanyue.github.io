@@ -40,7 +40,7 @@ Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Wen Li  **(\
 
 # Services
 **Conference Reviewer** <br>
-- CVPR, ICLR.
+- CVPR, ICCV, ICLR.
 
 **Teaching Assistant** <br>
 - Autumn 2022, Introduction to Artificial Intelligence, UESTC.
