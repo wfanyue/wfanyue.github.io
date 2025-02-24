@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Meituan, Beijing, China"
+locale                   : "NUS, Singapore"
 title                    : "Fanyue Wei"
 title_separator          : "-"
 name                     : &name "Fanyue Wei"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Fanyue Wei"
   pronouns         : # example: "she/her"  
-  bio              : "A researcher at Meituan Inc."
-  location         : "Beijing, China"
+  bio              : "A PhD student in NUS."
+  location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : https://wfanyue.github.io
   email            : "wfanyue@gmail.com" 
