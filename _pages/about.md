@@ -12,7 +12,7 @@ My name is Fanyue Wei. I am a first-year Ph.D student at the National University
 
 My research focuses on multimodal learning, including Video Understanding, Text-to-Image Generation, and *etc*.
 
-If you are interested in my research, feel free to contact me at: wfanyue@gmail.com.
+If you are interested in my research, feel free to contact me at: wfanyue@gmail.com or wfanyue@u.nus.edu.
 
 # Selected Publications
 
@@ -20,7 +20,7 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 [The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning
 ](https://arxiv.org/abs/2501.07305)           
-Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Wen Li  **(\* indicates equal contribution)**    
+Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Angela Yao, Wen Li  **(\* indicates equal contribution)**    
 *Preprint*
 
 [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642v2)  
