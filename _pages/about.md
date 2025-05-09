@@ -1,4 +1,4 @@
----
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/3b642554-b0c0-4ec6-a26f-48d72268e174" />---
 permalink: /
 title: "About me"
 author_profile: true
@@ -21,7 +21,7 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 [The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning
 ](https://arxiv.org/abs/2501.07305)           
 Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Angela Yao, Wen Li  **(\* indicates equal contribution)**    
-*Preprint*
+*Preprint* &emsp; [Project Page](https://xyangzhou.github.io/TD-DETR/)
 
 [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642v2)  
 **Fanyue Wei**, Wei Zeng, Zhenyang Li, Dawei Yin, Lixin Duan, Wen Li   
