@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Biography
 My name is Fanyue Wei. I am a first-year Ph.D student at the National University of Singapore(NUS), under the supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). Previously, I obtained my M.E degree from the University of Electronic Science and Technology of China, under the supervision of [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ&hl=en).
 
