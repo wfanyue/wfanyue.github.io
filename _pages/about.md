@@ -18,10 +18,14 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 **My papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=D3yhzwYAAAAJ) profile.**
 
+CoPhyBench: Benchmarking Physical Reasoning from Conditional Video Observation  
+**Fanyue Wei**, Kai Xu, Yizhuo Zhang, Pengzhan Sun, Junbin Xiao, Angela Yao
+
+
 [The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning
 ](https://arxiv.org/abs/2501.07305)           
 Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Angela Yao, Wen Li  **(\* indicates equal contribution)**    
-*Preprint* &emsp; [Project Page](https://xyangzhou.github.io/TD-DETR/)
+*ICCV*, 2025 &emsp; [Project Page](https://xyangzhou.github.io/TD-DETR/)
 
 [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642v2)  
 **Fanyue Wei**, Wei Zeng, Zhenyang Li, Dawei Yin, Lixin Duan, Wen Li   
