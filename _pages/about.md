@@ -44,7 +44,7 @@ Xinyang Zhou<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Lixin Duan, Angela Yao, 
 
 # Services
 **Conference Reviewer** <br>
-- CVPR, ICCV, ICLR.
+- CVPR, ICCV, ICLR, NeurIPS.
 
 **Teaching Assistant** <br>
 - Autumn 2022, Introduction to Artificial Intelligence, UESTC.
