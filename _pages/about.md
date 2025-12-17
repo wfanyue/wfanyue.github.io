@@ -18,9 +18,10 @@ If you are interested in my research, feel free to contact me at: wfanyue@gmail.
 
 **My papers can also be found on [Google Scholar](https://scholar.google.com/citations?user=D3yhzwYAAAAJ) profile.**
 
-CoPhyBench: Benchmarking Physical Reasoning from Conditional Video Observation  
-**Fanyue Wei**, Kai Xu, Yizhuo Zhang, Pengzhan Sun, Junbin Xiao, Angela Yao
-
+[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy
+](https://arxiv.org/abs/2512.14423)
+Zhuo Chen<sup>\*</sup>, **Fanyue Wei<sup>\*</sup>**, Runze Xu, Jingjing Li, Lixin Duan, Angela Yao, Wen Li     
+ArXiv &emsp; [Project Page](https://synps26.github.io/)
 
 [The Devil is in the Spurious Correlation: Boosting Moment Retrieval via Temporal Dynamic Learning
 ](https://arxiv.org/abs/2501.07305)           
